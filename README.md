@@ -9,14 +9,15 @@
 ### 🚀 **About Me**
 - 🧠 Passionate about **AI, Cybersecurity, and Scalable Software Development**  
 - 💻 Skilled in **Android Development (Java/Kotlin)** and **Frontend (React, HTML, CSS, JS)**  
-- 🤖 Currently developing an **NLP-based Fake Job Detection System**  
+- 🤖 Make a comprehensive research on **NLP-based Fake Job Detection System**
+- 🤖 Currently developing an **Smart Polio Record and Monitoring Portal**  
 - 🌱 Continuously exploring **Full-Stack Development & Intelligent Systems**  
-- 🎯 Career Vision: To serve in national technology sectors like **PAEC** or the **Pakistan Army’s tech division**, contributing to innovation and defense through software and AI.
+- 🎯 Career Vision: To serve in national technology sectors, contributing to innovation and defense through software and AI.
 
 ---
 
 ### 🛠️ **Tech Stack**
-**Languages:** C++, Java, C#, Python, JavaScript 
+**Languages:** C++, Java, C#, Python, JavaScript, Kotlin
 **Frameworks & Tools:** React, Android Studio, VS Code, GitHub, IntelliJ IDEA, Jupyter, Colab  
 **Domains:** Android Development, Frontend Engineering, AI, NLP, Data Science, Cybersecurity  
 
@@ -35,7 +36,7 @@
 
 ### 📫 **Let’s Connect**
 📧 **Personal:** [raqeebayasin@gmail.com](mailto:raqeebayasin@gmail.com)  
-📨 **Work:** [13056@wisdomhouse.edu.pk](mailto:13056@wisdomhouse.edu.pk)  
+📨 **Work:** [raqeebayasin@gmail.com]  
 💼 **LinkedIn:** [linkedin.com/in/raqeeba-yasin-93ba04362](https://www.linkedin.com/in/raqeeba-yasin-93ba04362)  
 🌐 **Portfolio (coming soon):** [raqeebayasin.github.io](https://raqeebayasin.github.io)
 
