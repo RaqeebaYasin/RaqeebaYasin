@@ -1,30 +1,37 @@
 # 👋 Hi, I'm **Raqeeba Yasin**
 
-🎓 **BSCS Student — University of the Punjab**  
-💻 **AI & Cybersecurity Enthusiast | Android & Frontend Developer | Future Full-Stack Engineer**  
-🇵🇰 Driven by a mission to use technology and innovation for Pakistan’s growth, security, and global presence.
+🎓 **BSCS Student — University of the Punjab** 💻 **AI & Cybersecurity Researcher | Technical Lead | Frontend & Android Developer** 🇵🇰 Driven by a mission to use technology and innovation for Pakistan’s growth, security, and global presence.
 
 ---
 
 ### 🚀 **About Me**
-- 🧠 Passionate about **AI, Cybersecurity, and Scalable Software Development**  
-- 💻 Skilled in **Android Development (Java/Kotlin)** and **Frontend (React, HTML, CSS, JS)**  
-- 🤖 Make a comprehensive research on **NLP-based Fake Job Detection System**
-- 🤖 Currently developing an **Smart Polio Record and Monitoring Portal**  
-- 🌱 Continuously exploring **Full-Stack Development & Intelligent Systems**  
-- 🎯 Career Vision: To serve in national technology sectors, contributing to innovation and defense through software and AI.
+- 🧠 Focus: **Cloud Security (Serverless), AI/ML Anomaly Detection, and NLP** - 💻 Technical Lead for high-impact projects, bridging the gap between research and scalable code.  
+- 🛡️ Researcher: Published work on **Serverless Intrusion Detection** using AI.
+- 🏥 Developer: Currently building the **Smart Polio Record and Monitoring Portal (SPRMP)**.
+- 🎯 Vision: To engineer intelligent systems that solve real-world problems in national security and public health.
+
+---
+
+### 📚 **Research & Publications**
+- 📄 **AI-Driven Intrusion Detection for Serverless Architectures** (2026)  
+  *A behavioral approach using semi-supervised ML (Autoencoders) to protect FaaS environments.* **DOI:** [10.5281/zenodo.19468334](https://doi.org/10.5281/zenodo.19468334) | **Read on:** [Academia.edu](https://www.academia.edu/165572545/AI_Driven_Intrusion_Detection_for_Serverless_Architectures_A_Lightweight_Behavioral_Approach_to_Detecting_Injection_and_DDoS_Attacks) | [SSRN](https://ssrn.com/author=11060069)
+  
+- 🕵️ **NLP-based Fake Job Detection System** *Comprehensive research on detecting fraudulent recruitment using Natural Language Processing.*
 
 ---
 
 ### 🛠️ **Tech Stack**
-**Languages:** C++, Java, C#, Python, JavaScript, Kotlin
-**Frameworks & Tools:** React, Android Studio, VS Code, GitHub, IntelliJ IDEA, Jupyter, Colab  
-**Domains:** Android Development, Frontend Engineering, AI, NLP, Data Science, Cybersecurity  
+- **Languages:** Python, JavaScript (ES6+), Java, Kotlin, C++, SQL  
+- **Frontend & App:** React, Tailwind CSS, Android Studio (XML/Compose)  
+- **Backend & Data:** Node.js, Flask, PostgreSQL, TensorFlow/Keras, Jupyter  
+- **Tools:** GitHub (Git), Docker, VS Code, Zenodo, SSRN
 
 ---
 
 ### 💼 **Featured Projects**
-- 🏥 [Hospital Management System (C++)](https://github.com/RaqeebaYasin/cpp-projects/tree/main/Hospital_Management_System)  
+- 🛡️ **[Serverless-AI-IDS](https://github.com/RaqeebaYasin/serverless-ai-ids)** – AI-powered intrusion detection for cloud functions.
+- 💉 **[Smart Polio Portal](https://github.com/RaqeebaYasin/SPRMP)** – Digital monitoring system for public health initiatives.
+- 🏥 **[Hospital Management System](https://github.com/RaqeebaYasin/cpp-projects/tree/main/Hospital_Management_System)** – Robust C++ system for healthcare data management.
 
 ---
 
@@ -35,12 +42,10 @@
 ---
 
 ### 📫 **Let’s Connect**
-📧 **Personal:** [raqeebayasin@gmail.com](mailto:raqeebayasin@gmail.com)  
-📨 **Work:** [raqeebayasin@gmail.com]  
+📧 **Email:** [raqeebayasin@gmail.com](mailto:raqeebayasin@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/raqeeba-yasin-93ba04362](https://www.linkedin.com/in/raqeeba-yasin-93ba04362)  
-🌐 **Portfolio (coming soon):** [raqeebayasin.github.io](https://raqeebayasin.github.io)
+📝 **Academic Profile:** [Author Page (SSRN)](https://ssrn.com/author=11060069)
 
 ---
 
 ⭐ *“I believe technology isn’t just about code — it’s about purpose, innovation, and building a safer, smarter future.”*
-
