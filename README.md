@@ -43,7 +43,7 @@
 
 ### 📫 **Let’s Connect**
 📧 **Email:** [raqeebayasin@gmail.com](mailto:raqeebayasin@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/raqeeba-yasin-93ba04362](https://www.linkedin.com/in/raqeeba-yasin-93ba04362)  
+💼 **LinkedIn:** [linkedin.com/in/raqeeba-yasin-93ba04362](https://www.linkedin.com/in/raqeebayasin/)  
 📝 **Academic Profile:** [Author Page (SSRN)](https://ssrn.com/author=11060069)
 
 ---
