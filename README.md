@@ -56,7 +56,7 @@
     (https://independentresearcher.academia.edu/RaqeebaYasin)
     
 ✍🏻 **Portfolio:**  [https://raqeeba-portfolio.vercel.app/]
-
+🤖 **SSRN**  [https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11060069]
 
 ---
 
